@@ -1,0 +1,7 @@
+region="us-east-1"
+vpc_cidr="192.168.0.0/16"
+vpc_name="dvs-batch1"
+igw_name="dvs-igw"
+route_name="dvs-route"
+sub_name="dvs-sub"
+sub_cidr="192.168.10.0/24"
